@@ -5,9 +5,9 @@ Feel free to reach out to me here : [TrynX website portfolio](https://trynx.verc
 
 | Protocol | Date | Severity | Platform | Language | Status |
 | -------- | ---- | -------- | -------- | -------- | ------ |
-| Private | May 1, 2026 | Informational | [Cantina](https://cantina.xyz/u/rndm0x0) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Confirmed-2ea043?style=flat" /> |
-| Private | May 14, 2026 | Informational | [Cantina](https://cantina.xyz/u/rndm0x0) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Duplicate-6e7681?style=flat" /> |
-| Private | May 18, 2026 | Low | [Cantina](https://cantina.xyz/u/rndm0x0) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Duplicate-6e7681?style=flat" /> |
+| Private | May 1, 2026 | Informational | [Cantina](https://cantina.xyz/u/rndm0x0) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Unique-2ea043?style=flat" /> |
+| Private | May 14, 2026 | Informational | [Cantina](https://cantina.xyz/u/rndm0x0) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-6e7681?style=flat" /> |
+| Private | May 18, 2026 | Low | [Cantina](https://cantina.xyz/u/rndm0x0) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-6e7681?style=flat" /> |
 
 ### Public Competitions
 
