@@ -13,19 +13,14 @@ Feel free to reach out to me here : [TrynX website portfolio](https://trynx.verc
 
 | Competition | Date | Ranking | Findings | Links of interest | Language |
 | ----------- | ---- | ------- | -------- | ---------------- | -------- |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
+| [Firelight - Immunefi](https://immunefi.com/audit-competition/audit-comp-firelight-1/information/) | Aug 24, 2026 | **N/A** | 1 Low | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-firelight-1/information/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> |
+| N/A | Jan 12, 20** | **N/A** | N/A| Leaderboard | N/A  |
+
 
 ### Private Competitions
 
 | Competition | Date | Ranking | Findings | Links of interest | Language |
 | ----------- | ---- | ------- | -------- | ---------------- | -------- |
 | N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
-| N/A | Jan 12, 20** | **1st** | N/A | Leaderboard | N/A  |
+
 
